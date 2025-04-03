@@ -1,4 +1,4 @@
-###XBee Pro S2C ve Deneyap Kart 1A ile Radyo Haberleşmesi
+### XBee Pro S2C ve Deneyap Kart 1A ile Radyo Haberleşmesi
 
 Bu projede XBee Pro S2C modülleri ve Deneyap Kart 1A kullanılarak radyo haberleşmesi sağlanmaktadır. Deneyap 6-Eksen Ataletsel Ölçüm Birimi (IMU), X, Y ve Z eksenlerindeki ivme ve jiroskop değerlerini okurken; Deneyap Basınç Ölçer modülü, ortam basıncını hPa cinsinden ölçmektedir. Deneyap GPS ve GLONASS Konum Belirleyici sayesinde tarih, saat, enlem ve boylam bilgileri elde edilmektedir. Ayrıca, IMU'nun dahili sıcaklık sensörü kullanılarak ortam sıcaklığı hem °C hem de °F cinsinden ölçülür.
 

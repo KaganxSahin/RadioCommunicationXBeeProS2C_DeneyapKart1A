@@ -96,9 +96,9 @@ Eklendikten sonra XBee modülüne tıklayın.
 "Open the Serial Connection with the Radio Module" butonuna tıklayarak seri bağlantıyı başlatın.
 Deneyap Kart 1A'ya bağlı koordinatör XBee modülünün gönderdiği veriler burada görüntülenecektir.
 
-![4abe0e7e-b0c6-4056-94f2-a6ef0522f309](https://github.com/user-attachments/assets/3dfe99e9-1e3d-465c-a302-fffeb0021737)
-
 ![XBeeRadioCommunicationwithDeneyapKart1ABoard](https://github.com/user-attachments/assets/88dfdf53-aeff-40a0-9de5-249d78c2a80c)
+
+![4abe0e7e-b0c6-4056-94f2-a6ef0522f309](https://github.com/user-attachments/assets/3dfe99e9-1e3d-465c-a302-fffeb0021737)
 
 ![Ekran görüntüsü 2025-04-01 000006](https://github.com/user-attachments/assets/781e4b87-8829-4581-95f4-5b4e522bf308)
 

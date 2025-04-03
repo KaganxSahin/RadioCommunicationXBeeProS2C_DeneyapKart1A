@@ -39,24 +39,24 @@ Adım 3: XCTU ile İkinci XBee'yi Tanımlama
 Adım 4: İlk XBee'yi Koordinatör Olarak Ayarlama
 1.	İlk XBee'nin olduğu XCTU penceresine geri dönün.
 2.	"Network" başlığına gidin.
-o	Ce (Coordinator/End Device Mode): Indirect Message Coordinator [1] olarak ayarlayın.
+	Ce (Coordinator/End Device Mode): Indirect Message Coordinator [1] olarak ayarlayın.
 3.	"Networking & Security" sekmesine gidin.
-o	ID (Network ID): İstediğiniz bir sayısal değer girin. Örneğin 7293 (aynı ID diğer modülde de kullanılmalıdır).
+	ID (Network ID): İstediğiniz bir sayısal değer girin. Örneğin 7293 (aynı ID diğer modülde de kullanılmalıdır).
 4.	"Addressing" sekmesine gidin.
-o	NI (Node Identifier): “Koordinator” gibi anlaşılır bir isim girin.
-o	DH (Destination Address High): İkinci XBee’nin SH (Serial Number High) değerini kopyalayıp buraya yapıştırın.
-o	DL (Destination Address Low): İkinci XBee’nin SL (Serial Number Low) değerini kopyalayıp buraya yapıştırın.
+	NI (Node Identifier): “Koordinator” gibi anlaşılır bir isim girin.
+	DH (Destination Address High): İkinci XBee’nin SH (Serial Number High) değerini kopyalayıp buraya yapıştırın.
+	DL (Destination Address Low): İkinci XBee’nin SL (Serial Number Low) değerini kopyalayıp buraya yapıştırın.
 
 Adım 5: İkinci XBee'yi Router Olarak Ayarlama
 1.	İkinci XBee’nin XCTU penceresine geçin.
 2.	"Network" başlığına gidin.
 o	Ce (Coordinator/End Device Mode): Standard Router [0] olarak ayarlayın.
 3.	"Networking & Security" sekmesine gidin.
-o	ID (Network ID): İlk XBee’de girilen değerle aynı olmalı (7293).
+	ID (Network ID): İlk XBee’de girilen değerle aynı olmalı (7293).
 4.	"Addressing" sekmesine gidin.
-o	NI (Node Identifier): “Router” gibi anlaşılır bir isim girin.
-o	DH (Destination Address High): İlk XBee’nin SH (Serial Number High) değerini kopyalayıp buraya yapıştırın.
-o	DL (Destination Address Low): İlk XBee’nin SL (Serial Number Low) değerini kopyalayıp buraya yapıştırın.
+	NI (Node Identifier): “Router” gibi anlaşılır bir isim girin.
+	DH (Destination Address High): İlk XBee’nin SH (Serial Number High) değerini kopyalayıp buraya yapıştırın.
+	DL (Destination Address Low): İlk XBee’nin SL (Serial Number Low) değerini kopyalayıp buraya yapıştırın.
 
 Adım 6: Baud Rate Ayarlarını Güncelleme
 1.	İlk XBee’nin XCTU penceresine geri dönün.

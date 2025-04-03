@@ -10,7 +10,7 @@ Gerekli Donanım ve Yazılım
 
 Donanım: 2 adet XBee Pro S2C modülü, 2 adet XBee Explorer adaptörü, 2 adet USB kablosu, Deneyap Kart 1A, Deneyap GPS ve GLONASS Konum Belirleyici, Deneyap Basınç Ölçer, Deneyap 6-Eksen Ataletsel Ölçüm Birimi, 3 adet I2C bağlantı kablosu, Jumper kablolar, Breadboard, 3.7V Li-Po batarya
 
-Yazılım: XCTU programı, "USB Drivers for Digi radios and modems" sürücüsü, Deneyap Kart IDE veya Arduino IDE, 
+Yazılım: XCTU programı, "USB Drivers for Digi radios and modems" sürücüsü, Deneyap Kart IDE veya Arduino IDE
 
 Adım 1: XBee Modüllerini Bağlama
 1.	XBee modüllerini XBee Explorer adaptörlerine yerleştirin.

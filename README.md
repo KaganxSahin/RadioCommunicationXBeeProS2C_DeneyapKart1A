@@ -59,8 +59,12 @@ o	DH (Destination Address High): İlk XBee’nin SH (Serial Number High) değeri
 o	DL (Destination Address Low): İlk XBee’nin SL (Serial Number Low) değerini kopyalayıp buraya yapıştırın.
 
 Adım 6: Baud Rate Ayarlarını Güncelleme
-1.	İlk XBee’nin XCTU penceresine geri dönün. 1.1. "Serial Interfacing" sekmesine gidin. 1.2. BD (Baud Rate): 57600 olarak ayarlayın.
-2.	İkinci XBee’nin XCTU penceresine geçin. 2.1. "Serial Interfacing" sekmesine gidin. 2.2. BD (Baud Rate): 57600 olarak ayarlayın.
+1.	İlk XBee’nin XCTU penceresine geri dönün.
+"Serial Interfacing" sekmesine gidin
+BD (Baud Rate): 57600 olarak ayarlayın.
+2.	İkinci XBee’nin XCTU penceresine geçin. 
+"Serial Interfacing" sekmesine gidin.
+BD (Baud Rate): 57600 olarak ayarlayın.
 
 Adım 7: Ayarları Kaydetme
 1.	Hem birinci hem de ikinci XBee’nin XCTU programlarını açın.

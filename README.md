@@ -92,6 +92,6 @@ Adım 10: Haberleşme
 
 ![image](https://github.com/user-attachments/assets/c2cbeb44-cad0-485f-bac3-192e204f11c4)
 
+![Ekran görüntüsü 2025-04-01 000006](https://github.com/user-attachments/assets/e47892e4-5dfd-47e4-84f4-36c9856fe0f5)
 
-![Ekran görüntüsü 2025-04-01 000006](https://github.com/user-attachments/assets/11890b5b-600f-43db-ae72-3abfe6736447)
 

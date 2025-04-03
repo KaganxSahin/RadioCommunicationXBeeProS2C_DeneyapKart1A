@@ -90,7 +90,8 @@ Adım 10: Haberleşme
 
 ![XBeeRadioCommunicationwithDeneyapKart1ABoard](https://github.com/user-attachments/assets/41463a56-9d1f-408a-83f9-b80d70876d7e)
 
-![image](https://github.com/user-attachments/assets/0144eb78-a275-4f04-8d19-dcd44c652ea6)
+![image](https://github.com/user-attachments/assets/c2cbeb44-cad0-485f-bac3-192e204f11c4)
+
 
 ![Ekran görüntüsü 2025-04-01 000006](https://github.com/user-attachments/assets/11890b5b-600f-43db-ae72-3abfe6736447)
 
